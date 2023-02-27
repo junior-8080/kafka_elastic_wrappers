@@ -1,0 +1,22 @@
+{
+  "name": "kafka_elastic_wrappers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junior-8080/kafka_elastic_wrappers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junior-8080/kafka_elastic_wrappers/issues"
+  },
+  "homepage": "https://github.com/junior-8080/kafka_elastic_wrappers#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
